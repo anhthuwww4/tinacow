@@ -1,0 +1,54 @@
+body {
+    font-family: Bookman Old Style;
+}
+a{
+    border-radius:20px;
+    padding: 10px;
+    text-align: center;
+}
+header{
+    background-color: #e5e5e5;
+    padding: 10px;
+}
+header a {
+    text-decoration: none;
+    color: white;
+    background-color:#FF9494 ;
+}
+header b {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+header  {
+    text-align: center;
+}
+nav a{
+    background-color: #88a7d5;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: ;
+}
+nav{
+    text-align: center;
+}
+img {
+    text-align: center;
+}
+tr td{
+    text-align: center;
+}
+h1{
+    text-decoration: ;
+}
+table {
+    border: 3px solid #88a7d5;
+}
+td{
+    border: 3px solid #88a7d5;
+}
